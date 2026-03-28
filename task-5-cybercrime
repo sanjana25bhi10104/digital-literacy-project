@@ -1,18 +1,1 @@
-Cybercrime Awareness Case Study
 
-
-Aarav, a first-year student, decided to sell his used semester textbooks on a popular online peer-to-peer marketplace. Within minutes of posting the ad, he was contacted by an individual claiming to be a "junior student" who was desperate for the books and willing to pay the full price immediately. To build trust, the buyer shared a fake ID card and claimed he couldn't meet in person due to a family emergency, insisting on a UPI transfer.
-
-
-How the Crime Happened (Step-by-Step):
-
-Trust: The attacker used social engineering, acting overly polite and urgent to prevent Aarav from thinking too deeply about the transaction.
-Deception: The attacker told Aarav, "I am sending a ₹2,000 payment link now. Once you tap it and enter your PIN, the money will be credited to your bank account instantly."
-Trap: Instead of a "Credit" transaction, the attacker sent a UPI "Collect Request."
-Execution: In the rush of the moment, Aarav saw the notification on his phone. Misled by the attacker’s instructions, he entered his UPI PIN.
-Loss: Since a UPI PIN is only required to authorize the deduction of money, ₹2,000 was instantly debited from Aarav’s account and moved to the attacker’s anonymous wallet. The attacker immediately blocked Aarav's number.
-
-
-Target and Consequences:
-
-This scam specifically targets students and young professionals who are frequent users of digital wallets but may not be fully aware of the technical protocols of UPI. Beyond the immediate financial loss, the consequences include a breach of personal digital trust and the potential for the attacker to link the victim's phone number to other phishing databases for future, more complex identity theft attempts.
