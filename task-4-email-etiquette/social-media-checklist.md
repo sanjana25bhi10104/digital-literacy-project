@@ -1,4 +1,4 @@
-**Social Media Do's and Don'ts for College Students**
+**<h2><b>Social Media Do's and Don'ts for College Students</b></h2>**
 
 | Do's (Responsible Use) | Don'ts (Risky Behavior) |
 | :--- | :--- |
