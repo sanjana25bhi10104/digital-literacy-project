@@ -1,0 +1,9 @@
+﻿Stay Safe Online: Student Protection Guide
+1. PIN is for PAYING: Never enter your UPI PIN to receive money. If someone asks you to enter your PIN to "verify" a payment to you, it is 100% a scam.
+2. Verify the Identity: Do not trust "Army" or "Police" IDs sent over WhatsApp; these are easily faked by scammers.
+3. Check the Request: Always read the UPI notification carefully. Look for the words "Requesting money from you" vs. "Sending money to you."
+4. Secure Your Phone: Enable Biometric or Pattern locks on all payment apps (GPay, PhonePe, Paytm, etc).
+5. Use Official Apps only: Never download "Remote Desktop" apps like AnyDesk or TeamViewer if a stranger asks you to, they use these to see your screen and steal OTPs.
+6. UPI Lite/Limits: Use UPI Lite for small daily transactions to keep your main bank account balance isolated from frequent digital prying.
+7. Limit Public Wi-Fi: Avoid checking bank balances or making UPI payments on open college or café Wi-Fi networks.
+8. REPORT IMMEDIATELY: If defrauded, immediately report the transaction on the National Cyber Crime Portal (cybercrime.gov.in) or call the 24/7 Helpline 1930.
