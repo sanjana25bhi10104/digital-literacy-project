@@ -37,3 +37,6 @@ This repository serves as my professional Digital Literacy Portfolio, a comprehe
 The full project report, including detailed reflections and observations for all tasks, can be found in the `report/` folder.
 
 ---
+Important Links
+* LinkedIn: https://www.linkedin.com/in/sanjana-maity-20400b3bb/
+* Kaggle.com: https://www.kaggle.com/sanjanamaity
