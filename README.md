@@ -1,4 +1,4 @@
-# Digital Literacy Portfolio 🚀
+# Digital Literacy Portfolio
 **Course Code:** CSE0001 | **Course Title:** Digital Literacy  
 **Student Name:** Sanjana Maity  
 **Registration No:** 25BHI10104  
@@ -11,7 +11,7 @@ This repository serves as my professional Digital Literacy Portfolio, a comprehe
 
 ---
 
-## 📂 Module Summaries
+## Module Summaries
 
 ### **Module 1: Digital Awareness**
 **Deliverable:** A visual infographic highlighting core digital literacy skills.
@@ -33,7 +33,7 @@ This repository serves as my professional Digital Literacy Portfolio, a comprehe
 
 ---
 
-## 📄 Final Report
+## Final Report
 The full project report, including detailed reflections and observations for all tasks, can be found in the `report/` folder.
 
 ---
