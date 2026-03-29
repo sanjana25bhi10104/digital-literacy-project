@@ -6,7 +6,7 @@
 
 ---
 
-## 📝 Project Overview
+## Project Overview
 This repository serves as my professional Digital Literacy Portfolio, a comprehensive initiative focusing on professional identity and digital safety. Through this portfolio, I have established a strong presence on platforms like GitHub and LinkedIn while demonstrating a clear understanding of Cybersecurity risks and UPI fraud prevention. The project also covers the essentials of Email Etiquette, responsible Social Media usage, and technical collaboration through tools like HackerRank and Google Workspace. Overall, this work represents a commitment to maintaining a secure, ethical, and high-impact digital footprint.
 
 ---
